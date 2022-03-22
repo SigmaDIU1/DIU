@@ -1,7 +1,7 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
+Grupo: DIU1_Sigma.  Curso: 2021/22 
 Updated: 11/2/2022
 
 Proyecto: 
@@ -18,7 +18,7 @@ Miembros
  * :bust_in_silhouette:   AA     :octocat:     
  * :bust_in_silhouette:  BB     :octocat:
 
------ 
+-----
 
 
 
@@ -67,8 +67,8 @@ Miembros
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
-  
-    
+
+
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
@@ -155,7 +155,7 @@ Término | Significado
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -189,7 +189,8 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
+>>>
+>>> > ----
 
 >>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
 
