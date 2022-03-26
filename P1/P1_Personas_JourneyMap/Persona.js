@@ -102,7 +102,7 @@ angular.module("angular", [])
                 Contextos:   "La diputación de Granada le ha encargado hacer un reportaje sobre diferentes sitios turísticos de la provincia" ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 3 },
-					{ Name: "Online & Social Media", Value: 2 },
+					{ Name: "Online & Social Media", Value: 3 },
 					{ Name: "Recomendaciones & sugerencias", Value: 4 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
