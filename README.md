@@ -129,27 +129,27 @@ microsite y una breve descripción para comprender la finalidad de cada una.
 >>> También se dispone de un pie de página (Footer) en el que se contiene información básica
 >>> acerca de cuestiones intrínsecas de la propia web (política de privacidad, cookies almacenadas, aviso legal), además de información referente al local, y redirección a redes sociales.
 >>>
->>> Información completa en [documento bocetos](P2/Bocetos/DIU1.SIGMA_Bocetos.pdf).
+>>> Información completa en [bocetos](P2/Bocetos/DIU1.Sigma_Bocetos.pdf).
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto (Main Page).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(Main Page).drawio.png)
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto (Temática).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(Temática).drawio.png)
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto (Info Temática).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(Info Temática).drawio.png)
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto (Temática pasada).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(Temática pasada).drawio.png)
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto (Reservas).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(Reservas).drawio.png)
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto (Pagar).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(Pagar).drawio.png)
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto (Habit Normales).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(Habit Normales).drawio.png)
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto (Ayuda).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(Ayuda).drawio.png)
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto (FAQ).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(FAQ).drawio.png)
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto (Contacto).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(Contacto).drawio.png)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
