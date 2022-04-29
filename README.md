@@ -131,19 +131,19 @@ microsite y una breve descripción para comprender la finalidad de cada una.
 >>>
 >>> Información completa en [bocetos](P2/Bocetos/DIU1.Sigma_Bocetos.pdf).
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto(Main Page).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(MainPage).drawio.png)
 >>>
 >>>![Método UX](P2/Bocetos/Microsite-Boceto(Temática).drawio.png)
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto(Info Temática).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(InfoTemática).drawio.png)
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto(Temática pasada).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(Temáticapasada).drawio.png)
 >>>
 >>>![Método UX](P2/Bocetos/Microsite-Boceto(Reservas).drawio.png)
 >>>
 >>>![Método UX](P2/Bocetos/Microsite-Boceto(Pagar).drawio.png)
 >>>
->>>![Método UX](P2/Bocetos/Microsite-Boceto(Habit Normales).drawio.png)
+>>>![Método UX](P2/Bocetos/Microsite-Boceto(HabitNormales).drawio.png)
 >>>
 >>>![Método UX](P2/Bocetos/Microsite-Boceto(Ayuda).drawio.png)
 >>>
