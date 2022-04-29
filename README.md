@@ -90,7 +90,7 @@ En cuanto a las herramientas utilizadas en la página web, podemos ver que el co
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
->>> ![Método UX](P2/MapaEmpatia/Mapa de Empatía.png) 
+>>> ![Método UX](P2/MapaEmpatia/Mapa_Empatía.png) 
 
 >>> El proyecto consistirá en volver a abrir las habitaciones pero con el añadido de que algunas de ellas tendrán una decoración musical temática que irá cambiando a lo largo del tiempo con el objetivo de atraer y captar a los clientes interesados en dicha temática, además de instar a otros que ya hayan estado en el local (o se hayan alojado) a disfrutar de otra temática diferente, con el beneficio extra de que dichos clientes se conviertan en comensales del restaurante o espectadores de los eventos que se realicen en el local.
 
