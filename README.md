@@ -158,36 +158,109 @@ microsite y una breve descripción para comprender la finalidad de cada una.
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>>![Método UX](P3/moodboard/limahousing_moodboard.png)
+>>>
+>>>Con respecto al imagotipo realizo:
+>>> - El nombre de proyecto está cuidadosamente escogido con la motivación de realizar,
+en primer lugar, un guiño al establecimiento de “LemonRock”, con el objetivo de que
+el usuario final que utiliza este nuevo servicio, vea que está asociado con el ya
+existente (referido y centrado al restaurante y a la música), haciendo la asociatividad
+propia de los cítricos “Lima” y “Limón”.
+>>>- También sobre el nombre del proyecto: la sonoridad del mismo facilita a que el
+usuario pueda recordarlo y pronunciarlo fácilmente, factor importante a la hora de
+transmitir información a nuevos y potenciales usuarios.
+>>>- Con respecto al eslogan: “Rest & Music”, dejamos claro cual es el objetivo de
+nuestro servicio y que se basa en dos premisas: descanso, acompañado de
+motivaciones musicales.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+>>> Nuestra [landing page](https://lima-housing.webflow.io/) servirá de portada y presentación de nuestro sitio web. En nuestro caso, el diseño de la página es muy
+sencillo, la elección de la paleta y tipografías son muy similares a las que usaremos en el
+prototipo, para que así el usuario se empiece a familiarizar. Además también presentamos
+los beneficios que sugiere hospedarse en nuestro hostel, con testimonios de personas:
+>>>
+>>> ![Método UX](P3/landingpage/limahousing_landingpage.jpeg)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> ### Elección de la paleta de colores
+>>> ![Método UX](img/paleta.png)
+>>> Esta paleta de colores ha sido extraída de una fotografía con muchas limas colocadas sobre una mesa, cortadas y enteras (véase imagen de inspiración). Los tonos más claros se
+utilizarán para los fondos de página (contenido principal de la página, y color de la fuente en botones que contengan texto; mientras que los tonos más oscuros serán útiles para header
+y footer, además del color de la tipografía de los títulos y otro texto de interés localizado
+dentro del content. Así, evitamos cualquier tipo de problema que pueda presentarse con la
+legibilidad del texto (incluso a diferentes escalados de página/ redimensión según dispositivo), gracias a este contraste.
+Los colores en tonalidad verde transmiten un ambiente natural, relajante, estable, que es
+lo que pretendemos cuando un usuario navega: que se encuentre con una interfaz relajada,
+tranquila y ligera, al igual que los servicios de hostel que se ofrecen.
+
+>>> ### Elección de tipografía
+>>> ![Método UX](img/tipografia.png)
+>>> Se han seleccionado dos tipografías diferentes para distinguir entre diferentes elementos de texto de la página:
+>>> - PT Serif: Esta fuente es de un estilo más elegante, con serifa, y será útil para
+destacar títulos y subtítulos de secciones.
+>>>- Roboto Flex: Esta fuente no tiene serifa, es más ligera y con un estilo más
+moderno, y será utilizada para párrafos, texto de botones (que lo requieran), etc.
+
+>>> ### Guia de estilos
+>>> La guía de estilos sobre la que nos basaremos es la proporcionada por Google
+específicamente para aplicaciones WEB ([Material IO for Web](https://material.io/develop/web)), con el objetivo de hacer una
+aplicación limpia, moderna, fresca y con elementos claros y fácilmente identificativos.
+(Queremos notar que evidentemente esta guía de estilos comparte muchas cosas con su
+similar a Android para aplicaciones móviles).
+>>>Entre las características más importantes queremos destacar:
+>>>1. Uso de iconos Material: El estilo de estos iconos atiende a formas más
+geométricas, sin diseños cercanos a formas más humanas, además de tener un
+diseño con línea fina principalmente y un tamaño de unos 24x24.
+Los iconos que se usarán en la aplicación web, (algunos se mostraron ya en el
+MoodBoard) se han obtenido de la página de iconos material de Google [Material Icons](https://fonts.google.com/icons). Estos iconos estarán en todos aquellos sitios donde se requiera, o también para reforzar ciertas acciones (por ejemplo, estarán presentes en las pestañas de la barra de navegación de la cabecera).
+>>>2. Uso de las nuevas fuentes de Google: La tipografía elegida también responde a la
+guía de estilos, de ahí a que se eligiera PT Serif y Roboto Flex para el contenido.
+[Material Fonts](https://m3.material.io/styles/typography/fonts).
+>>>3. Uso de componentes estilo Material: Para finalizar, en la subsección anterior
+hablábamos sobre los patrones que tienen ciertos componentes de nuestra
+aplicación web. Utilizaremos los estilos de diseño Material para componentes web ya
+que ofrece esa frescura y modernidad que andamos buscando además de
+simplicidad. [Material Compontents 4 Web](https://material.io/components?platform=web).
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+>>>A continuación una muestra de las distintas pantallas de nuestra aplicación web
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>>La página principal
+>>>![Método UX](P3/protopie/elements/4.0_main.png)
+
+>>>Las dos páginas del apartado de temáticas, primero la temática actual y a continuación información sobre las anteriores temáticas
+>>>![Método UX](P3/protopie/elements/4.1_tematicas1.png)
+>>>![Método UX](P3/protopie/elements/4.1_tematicas2.png)
+
+>>>La página de reserva, donde se permite seleccionar la habitación, el tiempo que durará la estancia y si se desea reservar en restaurante
+>>>![Método UX](P3/protopie/elements/4.2_reservar1.png)
+>>>
+>>>También en el apartado de reserva, esta vez la ventana de pago
+>>>![Método UX](P3/protopie/elements/4.2_reservar5.png)
+
+>>>Seguimos por el apartado de habitaciones, donde se podrá ver imagenes de las distintas habitaciones que  no son temáticas
+>>>![Método UX](P3/protopie/elements/4.3_habitaciones1.png)
+>>>![Método UX](P3/protopie/elements/4.3_habitaciones1.png)
+
+>>>Para finalizar un apartado de ayuda donde encontraremos una sección de FAQ y otra de contacto
+>>>![Método UX](P3/protopie/elements/4.4_ayuda1.png)
+>>>![Método UX](P3/protopie/elements/4.4_ayuda3.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+>>> Esta última sección consistía en publicar nuestro Case Study. Para ello hemos publicado
+todo el contenido de este documento en el repositorio Git [DIU1_Sigma](https://github.com/SigmaDIU1/DIU). Además, se ha creado un vídeo en formato mp4 a modo de presentación del prototipo con algunas de las interacciones de mayor interés en el sistema.
+>>> [LIMA HOUSING VIDEO](P3/publishing/limahousing_publising.mp4)
+>>> [LIMA HOUSING PÁGINA](https://cloud.protopie.io/p/708ece9477)
 
 ## Paso 4. Evaluación 
 
