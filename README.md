@@ -5,14 +5,15 @@ Grupo: DIU1_Sigma.  Curso: 2021/22
 Updated: 11/2/2022
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> LIMA HOUSING
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> El proyecto consistirá en volver a abrir las habitaciones pero con el añadido de que algunas
+de ellas tendrán una decoración musical temática que irá cambiando a lo largo del tiempo.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> ![MétodoUX](img/Logo.png)
 
 Miembros
  * :bust_in_silhouette:   Daniel Pérez Ruiz     :octocat:     
