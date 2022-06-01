@@ -298,7 +298,11 @@ todo el contenido de este documento en el repositorio Git [DIU1_Sigma](https://g
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. 
 >>> 
 
->>>
+>>>Con todo esto, podemos decir que en general tanto la aplicación A como la B son aplicaciones buenas y que pueden llegar a ser útiles para el objetivo marcado. El ganador es claramente el sitio A, sin embargo, el trabajo realizado por los desarrolladores de la aplicación B es muy bueno a falta de pulir los aspectos que más han fallado
+>>>En cuanto a la aplicación A, la estructura, la navegación y la funcionalidad y algunas cuestiones de diseño y de marcado de secciones importantes son mejores que las de la aplicación B.
+
+>>>En cuanto a la aplicación B, la disposición del sitio web (más parecido a un formato real de web), el diseño de la sección de ofertas y habitaciones, y la navegabilidad sobre el contenido mostrado son mejores que las de la aplicación A.
+
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
@@ -308,7 +312,7 @@ todo el contenido de este documento en el repositorio Git [DIU1_Sigma](https://g
 
 
 
->>> Valoración personal 
+>>> En general la aplicación web diseñada está bastante bien, la información situada en el repositorio github es buena y acorde en líneas generales exceptuando los fallos que hemos detectado en la sección anterior. Como punto a favor de su diseño, la sección de “Habitaciones” y de “Ofertas” está muy lograda, es muy bonita en cuanto a diseño y es muy intuitiva de usar. Sin embargo, el hacer un login/registro que no tiene justificación aparente en la documentación proporcionada ni en el prototipo (además de colocarlo en una sección con un etiquetado incorrecto), y lo más fundamental,  no haber indicado dónde se situaría la gestión de la reserva, hace que la puntuación final del sitio se vea bastante reducida. 
 
 ## Conclusión final / Valoración de las prácticas
 
