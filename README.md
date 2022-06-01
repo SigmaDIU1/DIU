@@ -5,15 +5,14 @@ Grupo: DIU1_Sigma.  Curso: 2021/22
 Updated: 11/2/2022
 
 Proyecto: 
->>> LIMA HOUSING
+>>> Decida el nombre corto de su propuesta en la práctica 2 
 
 Descripción: 
 
->>> El proyecto consistirá en volver a abrir las habitaciones pero con el añadido de que algunas
-de ellas tendrán una decoración musical temática que irá cambiando a lo largo del tiempo.
+>>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
->>> ![MétodoUX](img/Logo.png)
+>>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
  * :bust_in_silhouette:   Daniel Pérez Ruiz     :octocat:     
@@ -270,7 +269,7 @@ todo el contenido de este documento en el repositorio Git [DIU1_Sigma](https://g
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> Vamos a evaluar el website de LEMON ROCK: EL REGRESO DEL HOSTEL, se centra en un microsite donde los usuarios puedan informarse de la reapertura de las habitaciones de hospedaje, además de poder reservar y encontrar ofertas inigualables. Se puede consultar su repositorio [aquí](https://github.com/amt911/DIU-Estrellas)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -278,52 +277,33 @@ todo el contenido de este documento en el repositorio Git [DIU1_Sigma](https://g
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
 
+>>> Las necesidades y expectativas de cada usuario las comentamos a continuación:
+>>> **Usuario 1:** Cuando entra a la app web busca un proceso de reserva rápido y sencillo debido a su falta de tiempo, también busca información sobre actividades donde poder compartir tiempo con gente y poder cumplir con su hobbie de establecer conversación con extranjeros / turistas de otros países.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+>>> **Usuario 2:** Son un grupo de amigos jóvenes, buscan un sitio que les muestre las mejores ofertas, con mucha información visual sobre las habitaciones y sobre el local en sí ya que les apasiona la fotografía, buscan además un sitio donde poder hospedarse todos juntos y donde puedan conocer a otros grupos de gente joven con la que compartir tiempo.
+
+>>> **Usuario 3:** Tras la decepción / asco de encontrarse los alrededores de la ciudad sucios, espera poder desconectar y encontrar un sitio de paz en el LemonRock, alquilando de paso una habitación para pasar la noche. Puesto que no tiene mucha paciencia ni ganas de tener que invertir mucho tiempo en este proceso, espera realizar la reserva y además ver información adicional tanto del restaurante como de los eventos de forma clara.
+
+>>> **Usuario 4:** Espera encontrar información sobre si las habitaciones y el local están adaptados a personas con movilidad reducida, que el proceso de reserva se pueda realizar de forma sencilla desde un móvil o tablet e información sobre si en el hostel se ofertan actividades musicales a las que pueda asistir ya que le encanta la música y el baile.
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. 
+>>> 
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>>
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+>> Se puede consultar el estudio realizado en el siguiente [documento](). 
 
 
 
 >>> Valoración personal 
-
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>
->>> > ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
 
 ## Conclusión final / Valoración de las prácticas
 
