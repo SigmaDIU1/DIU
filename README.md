@@ -299,6 +299,7 @@ todo el contenido de este documento en el repositorio Git [DIU1_Sigma](https://g
 >>> 
 
 >>>Con todo esto, podemos decir que en general tanto la aplicación A como la B son aplicaciones buenas y que pueden llegar a ser útiles para el objetivo marcado. El ganador es claramente el sitio A, sin embargo, el trabajo realizado por los desarrolladores de la aplicación B es muy bueno a falta de pulir los aspectos que más han fallado
+
 >>>En cuanto a la aplicación A, la estructura, la navegación y la funcionalidad y algunas cuestiones de diseño y de marcado de secciones importantes son mejores que las de la aplicación B.
 
 >>>En cuanto a la aplicación B, la disposición del sitio web (más parecido a un formato real de web), el diseño de la sección de ofertas y habitaciones, y la navegabilidad sobre el contenido mostrado son mejores que las de la aplicación A.
