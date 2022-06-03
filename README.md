@@ -280,9 +280,10 @@ todo el contenido de este documento en el repositorio Git [DIU1_Sigma](https://g
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+>>> ![Método UX](img/personas.JPG)
 
 >>> Las necesidades y expectativas de cada usuario las comentamos a continuación:
+
 >>> **Usuario 1:** Cuando entra a la app web busca un proceso de reserva rápido y sencillo debido a su falta de tiempo, también busca información sobre actividades donde poder compartir tiempo con gente y poder cumplir con su hobbie de establecer conversación con extranjeros / turistas de otros países.
 
 >>> **Usuario 2:** Son un grupo de amigos jóvenes, buscan un sitio que les muestre las mejores ofertas, con mucha información visual sobre las habitaciones y sobre el local en sí ya que les apasiona la fotografía, buscan además un sitio donde poder hospedarse todos juntos y donde puedan conocer a otros grupos de gente joven con la que compartir tiempo.
@@ -296,7 +297,7 @@ todo el contenido de este documento en el repositorio Git [DIU1_Sigma](https://g
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. 
->>> 
+>>> ![Método UX](img/sus.JPG)
 
 >>>Con todo esto, podemos decir que en general tanto la aplicación A como la B son aplicaciones buenas y que pueden llegar a ser útiles para el objetivo marcado. El ganador es claramente el sitio A, sin embargo, el trabajo realizado por los desarrolladores de la aplicación B es muy bueno a falta de pulir los aspectos que más han fallado
 
@@ -309,7 +310,7 @@ todo el contenido de este documento en el repositorio Git [DIU1_Sigma](https://g
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Se puede consultar el estudio realizado en el siguiente [documento](). 
+>> Se puede consultar el estudio realizado en el siguiente [documento](P4/P4_UsabReport_{ElRegresoDelHostel}_doneby_{DIU1.05}_{Sigma}.pdf). 
 
 
 
